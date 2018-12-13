@@ -1,0 +1,30 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "item search and purchase app",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosidam48/Bamazon.git"
+  },
+  "keywords": [
+    "node",
+    "mysql",
+    "shopping",
+    "app"
+  ],
+  "author": "Madison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nosidam48/Bamazon/issues"
+  },
+  "homepage": "https://github.com/nosidam48/Bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
