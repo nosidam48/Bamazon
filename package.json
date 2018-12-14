@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/nosidam48/Bamazon#readme",
   "dependencies": {
+    "chalk": "^2.4.1",
     "console.table": "^0.10.0",
     "inquirer": "^6.2.1",
     "mysql": "^2.16.0"
