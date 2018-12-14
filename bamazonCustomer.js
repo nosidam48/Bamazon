@@ -1,7 +1,6 @@
 //variables to require the necessary npm packages
 var inquirer = require("inquirer");
 var mysql = require("mysql");
-var table = require("console.table");
 const chalk = require('chalk');
 
 //create a new connection to mySQL 
